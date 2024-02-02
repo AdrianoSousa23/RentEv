@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "rentev",
+    "slug": "snack-757d95f8-4fba-4628-8efd-ae290b0d52a6",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "TADS - Turma B\n\nGuilherme Picasso Novais\nAdriano Pinto Sousa\nClessio santos de Oliveira\nKevin Mathias Ferreira\nGianluca rocha de souza\nCaio Teles dos Santostion\nPedro Lombardo"
+  }
+}
