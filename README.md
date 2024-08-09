@@ -1,4 +1,4 @@
-# RentEv - Sistema de Aluguel de Eventos
+# RentEv - Sistema de Aluguel de Veiculos
 
 ## Visão Geral
 RentEv é um aplicativo móvel que oferece um sistema de aluguel de carros elétricos. O aplicativo visa facilitar a compra e venda de veículos elétricos, promovendo a adoção de tecnologias sustentáveis.
